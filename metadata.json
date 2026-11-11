@@ -1,0 +1,6 @@
+{
+  "name": "Database Murid MI Nurul Iman",
+  "description": "Sistem Informasi & Database Induk Siswa MI Nurul Iman berbasis Web dan Mobile Real-Time dengan fitur EMIS, Presensi QR, Rapor, SPP, dan Kartu Pelajar.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
